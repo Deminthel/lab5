@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Сторінка студента</title>
+</head>
+<body>
+    <header>
+        <h1>Сторінка студента</h1>
+    </header>
+    <main>
+        <p>Студент групи <strong>ІШІ-601</strong></p>
+        <p>Навчаюсь у <strong>КНЕУ</strong> на спеціальності <strong>Штучний інтелект</strong>.</p>
+        <p>Це робота для <strong>лабораторної роботи №5</strong>.</p>
+    </main>
+    <footer>
+        <p>&copy; Проценко Богдан Петрович, 2024</p>
+    </footer>
+</body>
+</html>
